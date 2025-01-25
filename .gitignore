@@ -1,0 +1,4 @@
+# Distirbution / Packaging
+dist/
+.Python
+build/
