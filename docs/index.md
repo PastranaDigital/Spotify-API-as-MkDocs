@@ -16,4 +16,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-:soccer: is the most popular sport in the world
+<br><br>
+
+:soccer: &nbsp; is the most popular sport in the world
+
+Tutorial info:
+
+-   [:simple-youtube: YouTube Video](https://youtu.be/xlABhbnNrfI?si=Ds8qU2qb5i7UlZjK)
+-   [:fontawesome-regular-file-code: Follow Along Guide](https://jameswillett.dev/getting-started-with-material-for-mkdocs/)
