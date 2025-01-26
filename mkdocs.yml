@@ -9,6 +9,7 @@ theme:
     favicon: /assets/favicon.ico
     features:
         - navigation.path
+        - navigation.top
         # - toc.integrate
         - navigation.footer
         - navigation.expand
