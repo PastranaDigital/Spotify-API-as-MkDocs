@@ -11,6 +11,7 @@ theme:
         - navigation.path
         # - toc.integrate
         - navigation.footer
+        - navigation.expand
     palette:
         # Dark Mode
         - scheme: slate
@@ -18,7 +19,7 @@ theme:
               icon: material/weather-sunny
               name: Dark mode
           primary: deep purple
-          accent: light green
+          accent: teal
 
         # Light Mode
         - scheme: default
@@ -26,7 +27,7 @@ theme:
               icon: material/weather-night
               name: Light mode
           primary: deep purple
-          accent: light green
+          accent: teal
 
 plugins:
     - search
