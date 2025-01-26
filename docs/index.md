@@ -18,8 +18,8 @@ Spotify Web API enables the creation of applications that can interact with Spot
 This is where the magic begins! The following steps will help you to get started with your journey towards creating some awesome music apps using the API:
 
 1. Log into the [dashboard](https://developer.spotify.com/dashboard) using your Spotify account.
-2. [Create an app](./concepts/apps.md) and select "Web API" for the question asking which APIs are you planning to use. Once you have created your app, you will have access to the app credentials. These will be required for API [authorization](./concepts/authorization.md) to obtain an [access token](./concepts/Access-Token.md).
-3. Use the [access token](./concepts/Access-Token.md) in your [API requests](./concepts/api-calls.md).
+2. [Create an app](./concepts/Apps.md) and select "Web API" for the question asking which APIs are you planning to use. Once you have created your app, you will have access to the app credentials. These will be required for API [authorization](./concepts/Authorization.md) to obtain an [access token](./concepts/Access-Token.md).
+3. Use the [access token](./concepts/Access-Token.md) in your [API requests](./concepts/API-calls.md).
 
 You can follow the [Getting started](Getting-started.md) tutorial to learn how to make your first Web API call.
 

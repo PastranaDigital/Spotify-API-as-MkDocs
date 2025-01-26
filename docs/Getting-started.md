@@ -1,8 +1,3 @@
----
-hide:
-    - toc
----
-
 # Getting started with Web API
 
 This tutorial will help you to make your first Web API call by retriving an artist's metadata. The steps to do so are the following:
