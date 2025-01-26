@@ -1,14 +1,15 @@
-site_name: My MkDocs Material Documentation
+site_name: Spotify for Developers (MkDocs Clone)
 site_url: https://example.com/
 theme:
     name: material
     font:
         text: Merriweather Sans
         code: Red Hat Mono
-    icon:
-        logo: material/cards
-    # favicon: path/to/favicon.ico
+    logo: /assets/logo.png
+    favicon: /assets/favicon.ico
     features:
+        - navigation.path
+        # - toc.integrate
         - navigation.footer
     palette:
         # Dark Mode
@@ -16,22 +17,20 @@ theme:
           toggle:
               icon: material/weather-sunny
               name: Dark mode
-          primary: light blue
-          accent: deep purple
+          primary: deep purple
+          accent: light green
 
         # Light Mode
         - scheme: default
           toggle:
               icon: material/weather-night
               name: Light mode
-          primary: blue
-          accent: deep orange
+          primary: deep purple
+          accent: light green
 
-    # logo:
-    #   icon: home
-    #   text: My Docs
-    # favicon: path/to/favicon.ico
-    # search: true
+plugins:
+    - search
+    - awesome-pages # https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin?tab=readme-ov-file
 
 markdown_extensions:
     - attr_list
@@ -62,4 +61,4 @@ extra:
         - icon: fontawesome/brands/linkedin
           link: https://www.linkedin.com/in/omar-pastrana/
 
-copyright: Copyright &copy; 2024 Omar Pastrana
+copyright: Copyright &copy; 2025 Spotify AB

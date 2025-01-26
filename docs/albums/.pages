@@ -1,0 +1,10 @@
+title: Albums
+arrange:
+    - Get-Album.md
+    - Get-Several-Albums.md
+    - Get-Album-Tracks.md
+    - Get-Users-Saved-Albums.md
+    - Save-Albums-for-Current-User.md
+    - Remove-Users-Saved-Albums.md
+    - Check-Users-Saved-Albums.md
+    - Get-New-Releases.md

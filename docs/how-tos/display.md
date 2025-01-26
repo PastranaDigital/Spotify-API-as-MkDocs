@@ -1,4 +1,4 @@
-# Diagram Examples
+# Display your Spotify profile data in a web app
 
 ## Flowcharts
 

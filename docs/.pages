@@ -1,0 +1,13 @@
+nav:
+    - Overview: index.md
+    - Getting started: Getting-started.md
+    - concepts
+    - tutorials
+    - How-Tos:
+          - Display your Spotify profile data in a web app: display.md
+    - albums
+    # - Albums:
+    #       - get-album.md
+    #       - get-several-albums.md
+    #       - get-album-tracks.md
+    #       - Get User's Saved Albums: get-users-saved-albums.md
