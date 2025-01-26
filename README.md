@@ -19,7 +19,7 @@ My conversion: https://pastranadigital.github.io/Spotify-API-as-MkDocs/
 1. Using custom stylesheets to control the visibility of "Table of Contents" for all pages
 2. Controlling the order of the navgiation utilizing the "[Awesome Pages](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin?tab=readme-ov-file)" plugin
 3. Linking between pages thru folders
-4. Setting image width using `img` html code instead of `![Alt Text]` method
+4. Setting image width using `img` html code does not render with MkDocs
 5. Compatibiltiy with Light or Dark mode using material toggle
 6. Enabling site-wide search
 7. Customized to use Logo and Favicon

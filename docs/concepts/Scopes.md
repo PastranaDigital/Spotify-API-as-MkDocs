@@ -55,18 +55,6 @@ Scopes are needed when implementing some of the authorization grant types. Make 
 | Description      | Write access to user-provided images.    |
 | Visible to users | Upload images to Spotify on your behalf. |
 
-<!--
-<table>
-  <tr>
-    <th>Description</th>
-    <td>Write access to user-provided images.</td>
-  </tr>
-  <tr>
-    <th>Visible to users</th>
-    <td>Upload images to Spotify on your behalf.</td>
-  </tr>
-</table> -->
-
 Endpoints that require the `ugc-image-upload` scope
 
 -   [Add Custom Playlist Cover Image](https://developer.spotify.com/documentation/web-api/reference/upload-custom-playlist-cover)

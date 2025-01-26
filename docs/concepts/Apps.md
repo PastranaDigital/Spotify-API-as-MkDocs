@@ -4,7 +4,7 @@ The app provides, among others, the _Client ID_ and _Client Secret_ needed to im
 
 To do so, go to your [Dashboard](https://developer.spotify.com/dashboard) and click on the _Create an App_ button to open the following dialog box:
 
-<img alt="Create App Dialog" src="/assets/apps_createappdialog.png" width="320">
+![Create App Dialog](../assets/apps_createappdialog.png)
 
 Enter an _App Name_ and _App Description_ of your choice (they will be displayed to the user on the grant screen), put a tick in the _Developer Terms of Service_ checkbox and finally click on _CREATE_. Your application is now registered, and you'll be redirected to the app overview page.
 
@@ -24,7 +24,7 @@ The app overview page provides access to different elements:
 
 It is time to configure our app. Click on _Edit Settings_ to view and update your app settings. The following dialog will show up:
 
-<img alt="Dashboard Settings" src="/assets/apps_dashboardeditsettings.png" width="320">
+![Dashboard Settings](../assets/apps_dashboardeditsettings.png)
 
 -   Add a web domain or URL to the _Website_ field. This will help users to obtain more information about your application.
 

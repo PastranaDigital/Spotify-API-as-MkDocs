@@ -4,7 +4,7 @@ Playlists are containers for tracks and episodes. Spotify’s users have already
 
 Through context menus and through support for drag-and-drop actions, the Spotify music players provide users with various controls for manually working with playlists. Playlists can be shared with, and followed by, other users, and they can be made available offline and used to seed other Spotify services, like radio.
 
-<img alt="Playlist view example" src="/assets/playlists_playlistview.png" width="600">
+![Playlist view example](../assets/playlists_playlistview.png)
 
 <br>
 
