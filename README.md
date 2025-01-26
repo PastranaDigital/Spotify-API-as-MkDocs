@@ -11,3 +11,12 @@ This repository implements a GitHub workflow that publishes my changes to the Gi
 Where it began: https://developer.spotify.com/documentation/web-api
 
 My conversion: https://pastranadigital.github.io/Spotify-API-as-MkDocs/
+
+<br><br>
+
+## MkDocs Lessons Learned
+
+1. Using custom stylesheets to control the visibility of "Table of Contents" for all pages
+2. Controlling the order of the navgiation utilizing the "[Awesome Pages](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin?tab=readme-ov-file)" plugin
+3. Linking between pages thru folders
+4. Setting image width using `img` html code instead of `![Alt Text]` method
