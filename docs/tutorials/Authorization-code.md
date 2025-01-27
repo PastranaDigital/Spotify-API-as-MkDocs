@@ -17,6 +17,8 @@ This guide assumes that:
 -   You have read the [authorization guide](../concepts/Authorization.md).
 -   You have created an app following the [apps guide](../concepts/Apps.md).
 
+<br>
+
 #### Example
 
 You can find an example app implementing Authorization Code flow on GitHub in the [web-api-examples](https://github.com/spotify/web-api-examples/tree/master/authorization/authorization_code) repository.
@@ -67,7 +69,9 @@ The Spotify OAuth 2.0 service presents details of the [scopes](../concepts/Scope
 
 Finally, the user is redirected back to your specified `redirect_uri`. After the user accepts, or denies your request, the Spotify OAuth 2.0 service redirects the user back to your `redirect_uri`. In this example, the redirect address is `https://localhost:8888/callback`
 
-#### Response
+<br>
+
+### Response
 
 If the user accepts your request, then the user is redirected back to the application using the `redirect_uri` passed on the authorized request described above.
 
@@ -154,7 +158,7 @@ app.get('/callback', function (req, res) {
 
 <br>
 
-## Response
+### Response
 
 On success, the response will have a `200 OK` status and the following JSON data in the response body:
 
