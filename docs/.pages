@@ -3,6 +3,5 @@ nav:
     - Getting started: Getting-started.md
     - concepts
     - tutorials
-    - How-Tos:
-          - Display your Spotify profile data in a web app: display.md
+    - How-Tos: how-tos
     - albums
