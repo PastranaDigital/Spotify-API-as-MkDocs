@@ -40,7 +40,7 @@ When your app has been rate limited it will receive a 429 error response from Sp
 
 ### Use batch APIs to your advantage
 
-Spotify has some APIs — like the [Get Multiple Albums](../albums/Get-Several-Albums.md) endpoint — that allow you to fetch a batch of data in one API request. You can reduce your API requests by calling the batch APIs when you know that you will need data from a set of objects.
+Spotify has some APIs — like the [Get Multiple Albums](https://developer.spotify.com/documentation/web-api/reference/get-multiple-albums) endpoint — that allow you to fetch a batch of data in one API request. You can reduce your API requests by calling the batch APIs when you know that you will need data from a set of objects.
 
 <br>
 

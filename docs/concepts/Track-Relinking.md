@@ -12,9 +12,9 @@ If your application supplies a `market` parameter in its call to the following t
 
 -   [Get a Track](https://developer.spotify.com/documentation/web-api/reference/get-track)
 -   [Get Several Tracks](https://developer.spotify.com/documentation/web-api/reference/get-several-tracks)
--   [Get an Album](../albums/Get-Album.md)
--   [Get Several Albums](../albums/Get-Several-Albums.md)
--   [Get an Album’s Tracks](../albums/Get-Album-Tracks.md)
+-   [Get an Album](https://developer.spotify.com/documentation/web-api/reference/get-an-album)
+-   [Get Several Albums](https://developer.spotify.com/documentation/web-api/reference/get-multiple-albums)
+-   [Get an Album’s Tracks](https://developer.spotify.com/documentation/web-api/reference/get-an-albums-tracks)
 -   [Get a Playlist’s Tracks](https://developer.spotify.com/documentation/web-api/reference/get-playlists-tracks)
 -   [Get a User’s Saved Tracks](https://developer.spotify.com/documentation/web-api/reference/get-users-saved-tracks)
 

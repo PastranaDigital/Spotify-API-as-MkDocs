@@ -260,10 +260,10 @@ Endpoints that require the `user-read-recently-played` scope
 
 Endpoints that require the `user-library-modify` scope
 
--   [Remove Albums for Current User](../albums/Remove-Users-Saved-Albums.md)
+-   [Remove Albums for Current User](https://developer.spotify.com/documentation/web-api/reference/remove-albums-user)
 -   [Remove User's Saved Tracks](https://developer.spotify.com/documentation/web-api/reference/remove-tracks-user)
 -   [Remove User's Saved Episodes](https://developer.spotify.com/documentation/web-api/reference/remove-episodes-user)
--   [Save Albums for Current User](../albums/Save-Albums-for-Current-User.md)
+-   [Save Albums for Current User](https://developer.spotify.com/documentation/web-api/reference/save-albums-user)
 -   [Save Tracks for User](https://developer.spotify.com/documentation/web-api/reference/save-tracks-user)
 -   [Save Episodes for User](https://developer.spotify.com/documentation/web-api/reference/save-episodes-user)
 
@@ -276,9 +276,9 @@ Endpoints that require the `user-library-modify` scope
 
 Endpoints that require the `user-library-read` scope
 
--   [Check User's Saved Albums](../albums/Check-Users-Saved-Albums.md)
+-   [Check User's Saved Albums](https://developer.spotify.com/documentation/web-api/reference/check-users-saved-albums)
 -   [Check User's Saved Tracks](https://developer.spotify.com/documentation/web-api/reference/check-users-saved-tracks)
--   [Get Current User's Saved Albums](../albums/Get-Users-Saved-Albums.md)
+-   [Get Current User's Saved Albums](https://developer.spotify.com/documentation/web-api/reference/get-users-saved-albums)
 -   [Get a User's Saved Tracks](https://developer.spotify.com/documentation/web-api/reference/get-users-saved-tracks)
 -   [Check User's Saved Episodes](https://developer.spotify.com/documentation/web-api/reference/check-users-saved-episodes)
 -   [Get User's Saved Episodes](https://developer.spotify.com/documentation/web-api/reference/get-users-saved-episodes)
