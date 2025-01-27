@@ -23,3 +23,4 @@ My conversion: https://pastranadigital.github.io/Spotify-API-as-MkDocs/
 5. Compatibiltiy with Light or Dark mode using material toggle
 6. Enabling site-wide search
 7. Customized to use Logo and Favicon
+8. Displaying multiple code examples in tabbed layout
